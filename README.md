@@ -1,0 +1,1 @@
+# Qt5_Intermediate_4.4_FileSystem_QStorageInfo
